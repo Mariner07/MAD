@@ -1,0 +1,4 @@
+#Sun Nov 22 17:35:25 ALMT 2020
+base.0=C\:\\Users\\nurlan.nogoibaev\\AndroidStudioProjects\\MAD\\Quiz_nurlan\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
